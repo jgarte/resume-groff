@@ -9,6 +9,7 @@ Jorge Gomez
 .AU
 whereiseveryone.srht.site | jgart@dismail.de
 SourceHut: ~jgart, ~whereiseveryone
+Gitea: https://git.genenetwork.org/jgart/
 GitHub: jgarte
 .BR
 .SH
