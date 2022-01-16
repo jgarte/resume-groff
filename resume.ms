@@ -5,80 +5,78 @@
 .nr HY 0
 
 .TL
-Gabriel Kutuzov
+Jorge Gomez
 .AU
-848-373-4119 | gabe@kutuzov.dev
-Github: GabeKutuzov
-LinkedIn ID: gabriel-kutuzov-734002158
+848-373-4119 | jgart@dismail.de
+SourceHut: ~jgart, ~whereiseveryone
+GitHub: jgarte
 .BR
 .SH
 Work Experience
 .RS
 .SH
-Software Developer at Rockefeller University (August 2018 - February 2021)
+Software Developer at GeneNetwork (July 2021 - Present)
 .PP
 .I
-Developed and maintained a graphics plotting library for
-biological modeling purposes.
+Developed and maintained an app that launches jupyter notebooks from a git repository
+in a Guix container (Linux namespaces).
 .BL
-Worked mostly with C/C++ with custom Rockefeller C Standard Library.
+Created jupyter notebooks showing examples of using GeneNetwork's API in various languages (Python, GNU Guile, R).
 .BL
-Heavy use of MPI for parallel-computing jobs.
+Pair programmed with co-workers on challenging tasks.
 .BL
-Maintained a library that produces metafiles with encoded plotting operations.
+Demoed web apps and gave presentations on debugging with PuDB.
 .BL
-Developed a program that decodes the metafiles, produces graphics, and (a very handy) CLI dump. 
+Developed a program that checks tsv files for common errors in order to ensure quality control of data uploads. 
 .BL
-Use of FLTK for GUI implementation (C++11 library).
+Developed unit tests for systems in the codebase.
 .BL
-Developed many unit tests for different systems in the codebase.
-.BL
-Deployed updates as per deadlines. Pushed commits to SVN.
+Deployed updates as per deadlines.
 .BL
 Worked closely with project manager to deliver correct design.
 .BL
-Produced high-quality, optimized and easily readable code. Followed a style document.
+Produced high-quality, optimized and readable code following best practices.
 .BL
 Made with and primarily for Linux.
 .BL
 Worked mostly remote from home.
 .SH 
-Private Tutoring (October 2016 - March 2018)
+LibreMiami (October 2016 - March 2018)
 .BL
-Remote private sessions entirely over the internet (used Skype and Teamviewer).
+Magnam hic eius nam at et voluptas illum. Sit eligendi doloremque possimus magni facere. 
 .BL
-Taught C#, Java and aspects of Game Development with OpenGL libraries and Unity3D.
+Magnam hic eius nam at et voluptas illum. Sit eligendi doloremque possimus magni facere. 
 .BL
-Taught fundamentals of computer science.
+Magnam hic eius nam at et voluptas illum. Sit eligendi doloremque possimus magni facere. 
 .SH
-Freelance Programming (January 2016 - March 2018)
+University of Huddersfield (January 2019 - March 2020)
 .BL
-Mostly Game Development projects with Unity3D/C#. 
+Magnam hic eius nam at et voluptas illum. Sit eligendi doloremque possimus magni facere. 
 .BL
-Developed VR projects with Unity3D.
+Magnam hic eius nam at et voluptas illum. Sit eligendi doloremque possimus magni facere. 
 .BL
-Helped with Java, .NET (C# and VB), and Python projects.
+Magnam hic eius nam at et voluptas illum. Sit eligendi doloremque possimus magni facere. 
 .SH
-Administrative Assistant at Gertner & Gertner Law (February 2018 - August 2018)
+Magnam hic eius nam at et voluptas illum. Sit eligendi doloremque possimus magni facere. 
 .BL
-Used C# and Python to automate tasks for myself and other employees (mostly basic I/O systems for tedious spreadsheets).
+Magnam hic eius nam at et voluptas illum. Sit eligendi doloremque possimus magni facere. 
 .BL
-Answered phones and collected messages.
+Magnam hic eius nam at et voluptas illum. Sit eligendi doloremque possimus magni facere. 
 .BL
-Organized legal documents and boxes.
+Magnam hic eius nam at et voluptas illum. Sit eligendi doloremque possimus magni facere. 
 .BL
-Helped other employees setup legal software on their computers.
+Magnam hic eius nam at et voluptas illum. Sit eligendi doloremque possimus magni facere. 
 .RE
 .SH
 Skills
 .RS
 .BL
-\f[B]Breakdown:\f[] Networking, graphics (OpenGL, Qt, FLTK), parallel programming (MPI), multithreading, Visual Studio/.NET, Vim, MVC, RTOS, basic machine learning, git/version control, GitHub, SVN,  automated unit testing, embedded programming, Python OpenCV image processing, documentation, SQL, debugging (GDB), memory management, creative problem solving, microcontrollers (huge fan of the 6502 processor!), customer service skills.
+\f[B]Breakdown:\f[] Networking, basic machine learning, git/version control, GitHub, SourceHut,  automated unit testing, Python OpenCV image processing, documentation, SQL, debugging (pudb), memory management, creative problem solving, community building skills.
 .BL
-\f[B]Proficient Languages:\f[] C, C++, Python, Java, C#/.NET, VB, Kotlin, SQL, Perl, Lua, Bash).
+\f[B]Languages:\f[] Python, GNU Guile, Javascript, Lua, Bash, SQL, Mint, C).
 .I
 Can quickly learn any language/technology necessary for any position. Definitely a back-end kind of guy.
 .BL
-\f[B]Operating Systems:\f[] GNU/Linux and Windows proficient.
+\f[B]Operating Systems:\f[] GNU/Linux and BSDs.
 
 .RE
