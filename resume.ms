@@ -74,8 +74,6 @@ Skills
 \f[B]Breakdown:\f[] Networking, basic machine learning, git/version control, GitHub, SourceHut,  automated unit testing, Python OpenCV image processing, documentation, SQL, debugging (pudb), memory management, creative problem solving, community building skills.
 .BL
 \f[B]Languages:\f[] Python, GNU Guile, Javascript, Lua, Bash, SQL, Mint, C).
-.I
-Can quickly learn any language/technology necessary for any position. Definitely a back-end kind of guy.
 .BL
 \f[B]Operating Systems:\f[] GNU/Linux and BSDs.
 
