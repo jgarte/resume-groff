@@ -7,7 +7,7 @@
 .TL
 Jorge Gomez
 .AU
-848-373-4119 | jgart@dismail.de
+whereiseveryone.srht.site | jgart@dismail.de
 SourceHut: ~jgart, ~whereiseveryone
 GitHub: jgarte
 .BR
